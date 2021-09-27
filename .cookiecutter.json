@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Espen Fjellv\u00e6r Olsen",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "espen@mrfjo.org",
+  "friendly_name": "Dogdetect",
+  "github_user": "espenfjo",
+  "license": "MIT",
+  "package_name": "dogdetect",
+  "project_name": "dogdetect",
+  "version": "1.0.0"
+}
