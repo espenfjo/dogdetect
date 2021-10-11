@@ -19,7 +19,7 @@ Changelog = "https://github.com/espenfjo/dogdetect/releases"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.11"
-click = "^8.0.1"
+click = "^8.0.3"
 av = "^8.0.3"
 pydub = "^0.25.1"
 ffmpeg-python = "^0.2.0"
